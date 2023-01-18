@@ -17,4 +17,4 @@ We have used FireBase services in our application to simplify registration.
 
 For support, connect to us  giorgi.tavadze.1@btu.edu.ge / rezi.gogokhia.1@btu.edu.ge.
 
-![png-clipart-world-travel-illustration-world-map-globe-travel-global-travel-logo-computer-wallpaper](https://user-images.githubusercontent.com/117215110/213155738-9a6c8aaf-9c10-4642-9d2b-57f3e26ff541.png)
+![1](https://user-images.githubusercontent.com/117215110/213156127-b9df66c1-9a31-45be-8541-7b699e141e55.png)
