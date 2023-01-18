@@ -4,6 +4,7 @@ This app is for people who love travel all Around The world, Through this applic
 The application is completely easy to use. Just register and you already have access to any information.
 That's our goal, to make it easier to find information.
 We have used FireBase services in our application to simplify registration.
+This application will help you to find a country where you can spend your vacation or move to live.
 
 
 ## Authors
